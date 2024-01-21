@@ -39,8 +39,8 @@ body {
 button {
     cursor: pointer;
     color: #0a0a23;
-    background-color: #feac32;
-    background-image: linear-gradient(#fecc4c, #ffac33);
+    /* background-color: #433f39; */
+    /* background-image: linear-gradient(#6a5e42, #ffac33); */
     /* interesting stuff */
     border: 3px solid #feac32;
 }
